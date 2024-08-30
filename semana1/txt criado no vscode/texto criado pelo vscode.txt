@@ -1,0 +1,28 @@
+- python
+    documentação = https://docs.python.org/pt-br/3/
+
+    Relacionado com:
+    4, 8, 11, 13 ,14
+
+- git
+    documentação = https://git-scm.com/doc
+
+    Relacionado com:
+    1, 2, 4 , 14
+
+
+- vscode
+    documentação = https://code.visualstudio.com/Docs
+
+    Relacionado com:
+    4, 5, 6, 7, 9, 10, 11, 12 ,13, 14
+
+- sqlitebrowser
+    documentação = https://sqlitebrowser.org/
+
+    Relacionado com:
+    1, 8, 12
+
+Disciplina: Desenvolvimento Web
+Período: 2º
+Ano: 2024
