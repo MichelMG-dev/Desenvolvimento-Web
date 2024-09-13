@@ -1,0 +1,67 @@
+*{
+    font-family: "SUSE", sans-serif;
+}
+
+.container{
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    font-size: 50px;
+    
+}
+
+.txt-cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    display: flex;    
+    justify-content: center;
+}
+.logo img{
+    box-shadow: 0px 0px 10px black;
+    border-radius: 20px;
+}
+
+.midias{
+    background-color: black;
+    height: 90vh;             
+    width: 100%;
+}
+
+.midia {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+      
+}
+
+.video{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.audio {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    
+}
+
+.barra-navegacao a{
+    background-color: rgb(115, 164, 255);
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
