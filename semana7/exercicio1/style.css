@@ -1,0 +1,48 @@
+#minha-div{
+    width: 80%;
+    margin: 0 auto;
+    height: 50vh;
+    background-color: brown;
+}
+
+@media screen and (min-width: 360px){
+    #minha-div{
+        background-color: blue;
+        height: 20vh;
+    }
+    
+}
+
+@media screen and (min-width: 992px){
+    #minha-div{
+        background-color: rgb(0, 255, 21);
+        height: 40vh;
+    }
+    
+    #outra-div{
+        display: block;
+        height: 3rem;
+        width: 80%;
+        margin: 0 top;
+        background-color: aqua;
+
+    }
+}
+
+@media screen and (min-width: 1440px){
+    #minha-div{
+        background-color: rgb(255, 0, 140);
+        height: 70vh;
+    }
+
+    #outra-div{
+        display: block;
+        height: 3rem;
+        width: 80%;
+        margin: 0 top;
+        background-color: rgb(255, 0, 212);
+
+    }
+    
+}
+
